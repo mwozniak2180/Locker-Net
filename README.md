@@ -1,4 +1,4 @@
-# [Tytuł projektu]
+# Locker-Net
 
 Projekt zespołowy z przedmiotu **Sztuczna inteligencja w przetwarzaniu geodanych** (geoinformatyka, I stopień).
 
