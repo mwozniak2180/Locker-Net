@@ -2,19 +2,13 @@
 
 Projekt zespołowy z przedmiotu **Sztuczna inteligencja w przetwarzaniu geodanych** (geoinformatyka, I stopień).
 
-- **Zespół:** [imię i nazwisko (@login GitHub)], [imię i nazwisko (@login)], [imię i nazwisko (@login)]
-- **Temat:** [numer i nazwa tematu z listy albo temat własny]
-- **Obszar:** Kraków [inny obszar uzasadnijcie w karcie projektu]
+- **Zespół:** Mateusz Woźniak mwozniak2180, Jakub Wrzosek j-wrzosek
+- **Temat:** Optymalizacja lokalizacji automatów paczkowych z wykorzystaniem grafowych sieci neuronowych (GNN).
+- **Obszar:** Kraków
 
 ## Pytanie
 
-[Jedno zdanie: jaką decyzję wspiera wynik i kto z niego skorzysta.]
-
-## Jak uruchomić
-
-1. Otwórzcie notatnik w Google Colab: *Plik → Otwórz notatnik → GitHub* i wklejcie adres tego repozytorium.
-2. Uruchamiajcie notatniki z folderu `notebooks` w kolejności numerów.
-3. Dane pobiera kod z notatników; nie ma ich w repozytorium (zob. `data/README.md`).
+Gdzie w Krakowie zlokalizować nowe automaty paczkowe?
 
 ## Struktura repozytorium
 
