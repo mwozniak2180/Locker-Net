@@ -27,7 +27,25 @@ Co najmniej 2–3 artykuły na zespół, w tym jeden recenzowany; każda osoba o
 
 ## Artykuł 2
 
-[Ta sama karta.]
+## Artykuł 2
+
+- **Opis bibliograficzny:** Elomiya A., Křupka J., Simic V., Švadlenka L., Jovčić S., Pamucar D. (2026). A GIS-MCDM framework for the smart parcel locker site suitability analysis and optimizing urban last-mile delivery. Applied Soft Computing, 198, 115247.
+- **Link:** https://doi.org/10.1016/j.asoc.2026.115247
+- **DOI:** 10.1016/j.asoc.2026.115247
+- **Opisuje:** Jakub Wrzosek
+
+| Pytanie | Odpowiedź z artykułu | Ocena |
+| --- | --- | --- |
+| 1. Problem | Wyznaczenie odpowiednich lokalizacji nowych automatów paczkowych w Pardubicach w Czechach. | Tak |
+| 2. Dane | Dane przestrzenne dotyczące infrastruktury, dostępności komunikacyjnej i zaludnienia. Nie ustalono okresu i procentu braków danych. | Częściowo |
+| 3. Podział | Analizę przeprowadzono dla jednego miasta. Metoda nie wymaga klasycznego podziału na zbiór treningowy i testowy. | Nie |
+| 4. Punkt odniesienia | Zastosowano analizę wielokryterialną zamiast klasycznego modelu uczenia maszynowego. | Nie |
+| 5. Metryki | Ocena przydatności lokalizacji oraz ranking 50 potencjalnych miejsc metodą TOPSIS. | Częściowo |
+| 6. Ablacja | Przeprowadzono analizę wrażliwości, sprawdzając wpływ zmiany wag poszczególnych kryteriów na wyniki. | Częściowo |
+| 7. Powtarzalność | Opisano metodykę, a dane udostępniono w repozytorium Zenodo. | Częściowo |
+| 8. Ograniczenia | Wyniki zależą od przyjętych kryteriów i ich wag. Nie potwierdzono skuteczności na innych miastach. | Częściowo |
+
+**Co bierzemy do projektu:** Wykorzystanie dostępności komunikacyjnej, infrastruktury oraz cech otoczenia do oceny potencjalnych lokalizacji automatów paczkowych.
 
 ## Istniejące rozwiązanie
 
