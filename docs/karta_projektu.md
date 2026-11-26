@@ -1,6 +1,6 @@
 # Karta projektu
 
-Wersja: [1 po P1 / 2 po P2] · Data: [rrrr-mm-dd]
+Wersja: [1 po P1 / 2 po P2] · Data: 2026-11-26
 
 | Pole | Wasza odpowiedź |
 | --- | --- |
@@ -19,6 +19,15 @@ Wersja: [1 po P1 / 2 po P2] · Data: [rrrr-mm-dd]
 
 ## Szybki test danych (P1)
 
-Wklejcie metryczkę z notatnika `00_start.ipynb`. Mapę `00_start_mapa.png` z folderu `GeoAI_projekt` na Dysku wgrajcie do folderu `wyniki` i wstawcie tu kod `![Mapa z testu danych](../wyniki/00_start_mapa.png)`.
+| Cecha | Wartość |
+| --- | --- |
+| Źródło | osm {'amenity': 'parcel_locker'} |
+| Liczba rekordów | 1 525 |
+| Typy geometrii | Point: 1435, Polygon: 90 |
+| Rekordy bez geometrii | 0 |
+| Układ współrzędnych pliku | EPSG:4326 |
+| W obszarze projektu | 100% |
+| Liczba kolumn | 82 |
+| Kolumny z brakami [%] | access: 100, direction: 100, currency:PLN: 100, brand:wikipedia: 100, operator:type: 100, artwork_subject: 100 |
 
-[metryczka]
+![Rozmieszczenie automatów paczkowych w Krakowie](../wyniki/00_start_mapa.png)
